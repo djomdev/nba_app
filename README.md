@@ -2,6 +2,13 @@
 
 Este proyecto es una propuesta de rediseño para una aplicación que actualmente está en operación. La app contiene vistas que facilitarán la experiencia de usuario. La aplicación se presenta como app movil pero está programada en web responsive. Se sugiere que cambie los tamaños de la pantalla del navegador a 355 X 689 para apreciarlo mejor. 
 
+Contectar front end:
+
+`npm start`
+
+Conectar servidor:
+
+`npm run dev-serv`
 
 ### Project Pitch
 
